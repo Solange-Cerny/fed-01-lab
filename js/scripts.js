@@ -1,2 +1,2 @@
-alert("Hello!");
-console.log("He!");
+//alert("Hello!");
+console.log("Good for you!");

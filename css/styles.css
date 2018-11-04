@@ -1,3 +1,7 @@
-body { background: #f99; }
-h1 { color: #0f0; }
-p { margin: 50px; }
+body { background: #99f; }
+.red{
+	color: #f99;
+}
+.green{
+	color: #9f9;
+}
